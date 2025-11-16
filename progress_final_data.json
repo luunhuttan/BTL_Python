@@ -1,0 +1,595 @@
+{
+  "last_processed_index": 10,
+  "results": [
+    {
+      "query_id": "query_5662",
+      "query_text": "Looking for a sr. front- end developer with build reusable code templates, code, and libraries for future use and a background in b.a. in information technology.",
+      "category": "BE",
+      "target_person_id": "5662",
+      "difficulty": "standard",
+      "precision_at_5": 1.0,
+      "ap_at_5": 1.0,
+      "relevance_labels": [
+        1,
+        1,
+        1,
+        1,
+        1
+      ],
+      "num_relevant": 5,
+      "search_results": [
+        {
+          "person_id": "4543",
+          "title": "sr. developer, project manager, front end developer, contract developer, business analyst, sr. front end developer, adobe creative suite ui developer, technical trainer, developer, ui engineer, sr. usability analyst, consultant",
+          "skills": "development of client web sites and applications, functional requirement documentation, proposal and estimate development, organization of client projects, developed front end code for a proprietary cms, coding included html, css, sass, javascript, jquery and light php, heavy focus on ada-compliance, accessibility, created project estimates to communicate timelines to internal stakeholders and clients, coordination of project work between design and back end development teams, created and manipulated image assets, lead client meetings to determine scope and key business requirements, conducted peer reviews to ensure code quality and adherence to best practices, meeting with various teams and stakeholders for requirements gathering, development of front end code for inclusion in enterprise-level cms (aem), built front end components using html, grunt, assemble, handlebars, integration of front- end code into aem components, system, functional documentat writing, developed and presented internal department training, developed front end web, cms and e-commerce solutions with an emphasis on progressive enhancement, worked remotely on agile development projects, fostered relationships with client partners to secure additional contracts for the company, led development for company and client websites, design and develop e-commerce solutions for print clients, worked with customers to determine project scope, estimates & timelines, wrote and delivered client proposals, designed and delivered email marketing campaigns, overhauled and streamlined brilliant's development processes, developed e-commerce sites for clients such as petsmart and sony, requirement gathering, functional specification writing, code reviews, wrote and maintained technical training material; courses and tests for developers, reference, etc., requirements gathering, technical documentation writing, qa testing, built custom-cms with development team, designed and developed company and client sites and application, created graphics and logos for internal and client projects, performed usability reviews, wrote and conducted usability testing, competitive analysis research and documentation, html, js development, front end design and development for client sites, conducted usability analysis, technical document writing, business analysis, quality assurance, website testing",
+          "abilities": "content management, content management systems, web design, information architecture, requirement gathering, sql, testing, excel",
+          "program": "aas in interactive multimedia",
+          "distance": 0.752027690410614
+        },
+        {
+          "person_id": "4769",
+          "title": "front-end developer, multimedia developer",
+          "skills": "html and html 5, css3, jquery, sql, php, responsive design, seo, sass, adobe creative suite, photoshop, lightroom, illustrator, indesign, after effects, dreamweaver, web development, wordpress and drupal cms administration, social media implementation, print production, digital asset design and development, assembla, basecamp",
+          "abilities": "dedicated web and multimedia developer, hands-on experience with all aspects of project development life-cycle, excels at taking original designs and integrating them with back-end code to produce tight, responsive user interfaces, seeking to stay on the cutting edge of the fast moving and ever-changing realm of web development, authorized to work in the us for any employer",
+          "program": "ba in communication science and english",
+          "distance": 0.752727746963501
+        },
+        {
+          "person_id": "4455",
+          "title": "sr. front end web developer, sr. software engineer (frontend specialist), sr. ui developer, sr. front end developer, front end technical architect, sr. front end engineer, front end developer, front end web developer, sr. front end web engineer, web engineer, integrator, ui, ux designer, front end programmer, actionscript developer, front end web, actionscript programmer",
+          "skills": "specializes in common web standards and practices that insure site responsiveness, fast page load times, and cross-browser compatibility which consistently rank high in search engines, expert hand coder proficient in the development of sites, templates, flash intros and user-interfaces for small businesses, e-commerce sites, online magazines, and non-profit entities, knowledgeable of ui, ux design, soa, web services, sdlc, and video encoding, assists product managers with branding and marketing concepts. photo manipulation and retouching with photoshop, as well as digital portraiture and restoration, strong background with web design, performance optimization for spas, strives to stay at the forefront of front end technologies by evaluating emerging javascript libraries and technologies, utilized the agile sdlc to make updates and changes to the ui of the symitar app, symitar is a mean stack app (angularjs 1.5.7, bootstrap 3.3.7- on the frontend) that more than 4000 credit unions use to manager their customers, tasked with updating the frontend tooling pipeline from a combination grunt, gulp based solution to webpack 4, sole developer responsible for development of a greenfield in-house management, configuration tool, interpreted balsamiq mockups from the product owners, used angular 6 & bootstrap 4, along with charting.js to create the administrative dashboard, created proof of concepts for this tool by evaluating multiple js frameworks (angular(6), vue, react and aurelia), evaluated react, react router, redux(sagas, thunks) in the node-backed application, as a possible candidate for the frontend architecture. (used create-react-app for scaffolding), worked directly with the ux, ui designer to apply the redesign of the service console application, using bootstrap 3.36(sass), and angularjs 1.5.8, deployed various html5 videoplayers, utilizing multiple video frameworks(videogular, videojs, mediaelement.js, etc) to determine which would work best for the conversion from the current used silverlight player, produced a remark.js presentation examining the differences between mpeg-dash and hls video formats - describing the benefits and drawbacks to product owners, develops proprietary content management system using angularjs 1.5, setup the karma, jasmine, protractor ecosystem to enable unit, integration and e2e testing of the front end, implements new relic rum instrumentation in order to facilitate real-time monitoring of users, produced a true client-side cache-busting solution, developed a plan to upgrade an outdated proprietary content management system, ported an individually paged-based application to an angular-based spa, implemented the git vcs replace tortoise svn, responsible for interviewing and evaluating potential infoscions, created the pizza hut mexico single page angular js application which serves over 8 million people representing 200+ stores, used google and it's \"pindrop\" technology to geolocate potential customers, one of a two person team of developers working to make \"the federal deductions, income, and wages guide\" responsive, ensured all code adheres to best practices coding standards by going through and making sure that all new additional javascript code passes jshint standards, specializing in solving angularjs errors, problems, responsible for the integration of the trapster.com website, as well as implementing the html5 version of trapster's new feature \"etas\", utilizing here.com maps, used backbonejs, nodejs, amazon web services, elastic beanstalk, one of 2 front end developers to work on the roll out of the new super chevy super site a conglomerate site of all of source interlink media's chevy branded websites, implemented user interface and front- end solutions for a leading salesforce app using jquery, html5, css3, and the bootstrap framework, implemented client-side binding, templating for an asp.net business intelligence application utilizing the knockout javascript library, reviewed various html5 charting packages (wijmo, kendo ui, d3, infovis, jqplot, chartjs and fusioncharts), evaluated 3rd party self-service business intelligence dashboard frameworks (tableau, datazen, domo, pentaho), constructed an intranet portal to display the strengths and weaknesses of each dashboard framework as they pertain to the bhi platform, implemented user interface and front- end solutions using jquery, jquery mobile, site integration and content management, received deliverables from vendors and integrated them into the client's (disney) system. worked in an agile environment that utilized jira for ticket management, daily interaction with both interwoven teamsite cms as well as perforce. collaborated with dedicated producers and quality assurance teams, designed user interface for a web-based marketing solution, from conceptualization and detailed user interface and functionality design through implementation, collaborated with marketing, product management throughout all design phases, worked with the production team to implement ui enhancements and ultimately optimize user experience, spliced up a mockup of the command & conquer: generals 2 website, to create the active landing page for the blockbuster video game, re-factored their video player from as2 to as3 and incorporated functionality equivalent to that of the hulu and youtube players which was not present beforehand, re factored their mp3 player from as2 to as3, collaborated with both client-side and server-side engineers in order to keep the core structure of the application intact, javascript, jquery & other js frameworks (dojo, mootools), hard coding with xhtml 1.0 strict & css 2.0.seo implementation (for plain html pages and full flash sites), flash actionscript troubleshooting & debugging, daily interaction with interwoven teamsite cms system, omniture & hitbox web analytics, google analytics, one of three employees hired to specialize in the development of actionscript components and frameworks for stickam's video-chat-centric social networking site, client-side development of instant messaging and file browsing widgets, worked closely with information architects and design teams to deliver compelling online and desktop content, flash media server coding and maintenance, to insure proper delivery of image, audio and video content",
+          "abilities": "angularjs (10+ years), bootstrap (10+ years), html5 (10+ years), javascript (10+ years), mongodb (10+ years), angular, front end, ui, react, front-end, user interface, css3, jquery, node",
+          "program": "ba in economics",
+          "distance": 0.7670093178749084
+        },
+        {
+          "person_id": "4282",
+          "title": "front end developer",
+          "skills": "html, css, javascript, webpack, sass, version control, agile, html5, css3, react, responsive web development, google web developer",
+          "abilities": "fixed and maintained bugs, researched and consulted on site improvements, worked with a/b testing, worked with ux designers, implemented image carousel, built view more/less dropdown module, built about us company landing page, built and maintained web banners, thoroughly integrated code with google web developer",
+          "program": "associate in fine arts and philosophy, full stack development",
+          "distance": 0.7879422307014465
+        },
+        {
+          "person_id": "5315",
+          "title": "front end web developer",
+          "skills": "html5, grunt, gulp, user interface, reactjs, css3, sass, content strategy, pixelmator, jquery, ajax, research, adobe cc, bootstrap, nodejs, amazon aws, typography, javascript, angularjs, google analytics, rest apis",
+          "abilities": "front end web developer, driven professional, create great-looking modern web apps, excellent communicator, passion for discovery, works on mobile or desktop",
+          "program": "m.s. in global affairs, b.a. in political science and business",
+          "distance": 0.7973839044570923
+        }
+      ]
+    },
+    {
+      "query_id": "query_17751",
+      "query_text": "Looking for a python developer with python 3.1x, django 1.4, and java and a background in bachelors in information science engineering.",
+      "category": "BE",
+      "target_person_id": "17751",
+      "difficulty": "standard",
+      "precision_at_5": 1.0,
+      "ap_at_5": 1.0,
+      "relevance_labels": [
+        1,
+        1,
+        1,
+        1,
+        1
+      ],
+      "num_relevant": 5,
+      "search_results": [
+        {
+          "person_id": "18278",
+          "title": "python developer, jr. python developer",
+          "skills": "python 3.x, django, sql, windows, linux, python, pandas, numpy, matplotlib, wireshark, windump, mysql",
+          "abilities": "data visualization, data exploring, statistical analysis on data, python developer, web developer in python, object oriented programming, gui with tkinter, mysql, socket programming, django web framework, agile methodology, scrum, analytical and problem-solving skills, multi-tasking and organizational skills, excellent communication and interpersonal skills",
+          "program": "masters in vlsi system design, bachelors ece, adca certificate",
+          "distance": 0.4710668623447418
+        },
+        {
+          "person_id": "17750",
+          "title": "python developer",
+          "skills": "python 2.7, django 1.4, html5, css, xml, mysql, javascript, backbone js, jquery, mongo db, ms sql server, git, github, aws, linux, shell scripting, ajax, java, python 2.6, 2.7, django framework 1.3, sql, lamp, adobe dreamweaver, apache web server, php, underscore js, sql developer tool, python, amazon aws s3, html, cassandra, django, pandas",
+          "abilities": "requirement gathering, project analysis, django development, python development, web development, database development, api development, automation, testing",
+          "program": "bachelor of engineer in engineer",
+          "distance": 0.5322715640068054
+        },
+        {
+          "person_id": "18040",
+          "title": "python developer",
+          "skills": "python, django framework, mysql, html",
+          "abilities": "web developer, analytical programming using python, developed user-friendly application, implemented code in python to retrieve and manipulate data, designed and implemented low-latency, high-availability, and performant application, involved in entire lifecycle of the project and build reusable code and libraries for future use, strong knowledge in python, django framework, mysql, html, fast learning, willing to learn new technologies, team management, problem solving ability, experience in object oriented programming (oop) concepts using python, ability to successfully multitask and prioritize work, experienced in working with pycharm, mysql workbench, proficient in sql database mysql, strive for success and growth",
+          "program": "ssc",
+          "distance": 0.5482403635978699
+        },
+        {
+          "person_id": "17444",
+          "title": "python developer",
+          "skills": "python",
+          "abilities": "python developer",
+          "program": "bachelor's in computer science",
+          "distance": 0.5488946437835693
+        },
+        {
+          "person_id": "18020",
+          "title": "python developer",
+          "skills": "python, django, vba, java",
+          "abilities": "supporting application projects, creating new applications, integrating multiple data sources and databases, providing inputs in planning and product processes, implementing a system that parsed client-supplied excel and pdf documents, implementing a system that helped save 100+ man hours a week",
+          "program": "bachelor's degree in economics",
+          "distance": 0.5657783150672913
+        }
+      ]
+    },
+    {
+      "query_id": "query_17242",
+      "query_text": "sr. network administrator experienced in cisco infrastructure, esxi upgrade, and unitrends backups and holding bachelor's in information technology.",
+      "category": "NETSEC",
+      "target_person_id": "17242",
+      "difficulty": "standard",
+      "precision_at_5": 1.0,
+      "ap_at_5": 1.0,
+      "relevance_labels": [
+        1,
+        1,
+        1,
+        1,
+        1
+      ],
+      "num_relevant": 5,
+      "search_results": [
+        {
+          "person_id": "17103",
+          "title": "sr. network administrator, sr. network engineer",
+          "skills": "cisco, juniper, networking, brocade, unified communications, applications",
+          "abilities": "network architecture design, network system design and planning, network device configuration and installation, network performance monitoring and troubleshooting, network maintenance and upgrades, network security and compliance, network training and support",
+          "program": "associates of arts in business administration, bachelor of information technology in network administration",
+          "distance": 0.45116400718688965
+        },
+        {
+          "person_id": "17016",
+          "title": "network administrator, jr. network technician",
+          "skills": "cisco, juniper, vmware, dns, virtualization, adtran, metaswitch",
+          "abilities": "managed systems infrastructure, managed network infrastructure, created and maintained robust network monitoring and configuration backups, implemented workstation deployment process, assisted with point of sale system management, performed helpdesk duties, managed and supported a service provider environment, responsible for provisioning new services, provided technical support and troubleshooting for customers",
+          "program": "baccalaureate in computer science, b.s. in physics",
+          "distance": 0.562161386013031
+        },
+        {
+          "person_id": "15559",
+          "title": "sr. network administrator, jr. network administrator, aircraft maintenance manager",
+          "skills": "network administration, windows, linux, vmware, cisco, exchange, security, active directory, dns, mpls, sql, vpn, firewalls, meraki, vlan, network monitoring, troubleshooting, propulsion, hydraulics, electrical systems",
+          "abilities": "network administration, windows, linux, vmware, cisco, exchange, security, active directory, dns, mpls, sql, vpn, firewalls, troubleshooting, propulsion, hydraulics, electrical systems, critical thinking",
+          "program": "bachelor's in software development, associate",
+          "distance": 0.5697168707847595
+        },
+        {
+          "person_id": "16836",
+          "title": "network administrator",
+          "skills": "network",
+          "abilities": "network administrator",
+          "program": "mechatronical enginnering, bs software engineering, master information science",
+          "distance": 0.5708656311035156
+        },
+        {
+          "person_id": "16820",
+          "title": "network administrator",
+          "skills": "technical support, windows, networking",
+          "abilities": "network administrator, network engineer",
+          "program": "master's in business",
+          "distance": 0.5937529802322388
+        }
+      ]
+    },
+    {
+      "query_id": "query_10873",
+      "query_text": "Candidate for a systems engineer role, strong in onsite support, administration, and technology maintenance and educated in bachelor's in computer & network security.",
+      "category": "BE",
+      "target_person_id": "10873",
+      "difficulty": "standard",
+      "precision_at_5": 1.0,
+      "ap_at_5": 1.0,
+      "relevance_labels": [
+        1,
+        1,
+        1,
+        1,
+        1
+      ],
+      "num_relevant": 5,
+      "search_results": [
+        {
+          "person_id": "10316",
+          "title": "systems security analyst, sr. it security professional, sr. infrastructure engineer, systems & server engineer, systems server engineer",
+          "skills": "vmware, active directory, system administrator, sccm, linux",
+          "abilities": "systems engineer/architect/analyst, hardware, platform, and software solutions, agile business solutions, attention to detail, diligent work effort, organizational skills, prioritize competing objectives, preserve company's best interests, high customer satisfaction, motivated team player, contribute new ideas, solve business needs with emerging technology, improve current operations with fresh ideas, excellent work ethics",
+          "program": "associates degree in information technology",
+          "distance": 0.4570313096046448
+        },
+        {
+          "person_id": "15074",
+          "title": "graduate assistant (system administrator), network engineer, cyber, network security",
+          "skills": "software, hardware procurement, licensing & deployment, active directory & network management, web systems design & maintenance, livestream studio video production, monitored bandwidth and network activity, corrected networking connectivity issues, directed the configuration of data switches and routers, structural cables and vsat equipment terminations and installations team member, developed disaster recovery plans and managed daily backup and recovery, worked as a team member with other technical staff to ensure connectivity and compatibility between systems, conducted server security administration and compliance",
+          "abilities": "hard-working network/system administrator, detail-oriented and proactive with strong troubleshooting training, communication and analytical abilities, research and analytical skills of a graduate student, ability to strategize and lead in managerial positions",
+          "program": "msc, bsc in computer science/statistics, ond",
+          "distance": 0.47193917632102966
+        },
+        {
+          "person_id": "11629",
+          "title": "system engineer, it specialist, it support desktop, information security analyst, it security specialist, cyber security analyst",
+          "skills": "hbss, acas, tanium, nessus, database, tools qa, stig, sccm, oral communication, written communication, customer service, problem solving, computer installation, windows 7 to 10 upgrade, data backup, pc refresh, security surveillance, incident response, vulnerability assessment, patch management, technical documentation, server maintenance, risk assessment, security operations, security reporting, security protocol development, security training, software updates",
+          "abilities": "diligent it specialist, computer network defense, endpoint and intrusion analysis, network security monitoring, cyber attack prevention, collaborative and effective communication, excellent presentation skills, effective manager and team player, identify security risks, attention to detail, problem solving, c, matlab, python, linux centos, verilog, mysql, microsoft server administration, microsoft office suite, authorized to work in us, fast-paced environment, enthusiasm and adaptability, excellent time management",
+          "program": "master of science in cybersecurity technology, bachelor of science in computer network & cyber security",
+          "distance": 0.48584064841270447
+        },
+        {
+          "person_id": "16321",
+          "title": "network administrator, systems consultant, manager, site support engineer",
+          "skills": "network security, hardware troubleshooting, software troubleshooting, risk analysis, workflow efficiency, data migration, software and firmware updates, malware removal, user setup and configuration, disaster recovery, employee management, customer service, inventory management, safety and security, network maintenance, computer repair, troubleshooting, active directory management",
+          "abilities": "ethics, leadership, reliability, efficiency, responsibility, integrity, teamwork, knowledge, motivation",
+          "program": "bachelors of science in information systems security, associate of applied science in network systems administration, certificate",
+          "distance": 0.5020508766174316
+        },
+        {
+          "person_id": "16563",
+          "title": "network administrator",
+          "skills": "windows, active directory, technical support, networking, javascript, resourceful",
+          "abilities": "network management and planning, maintain and upgrade current networks upon request, discover new opportunities to make the network cost-effective, troubleshooting skills for networking issues, end user problems and network security, computer networking certified committed to performing assigned tasks while working in fast-paced environment, adept at identifying system performance and operational issues",
+          "program": "bachelors in cybersecurity and networking in design and diagram possible solutions, associate in computer studies in design and development",
+          "distance": 0.5089733600616455
+        }
+      ]
+    },
+    {
+      "query_id": "query_12097",
+      "query_text": "Looking for a software developer sr associate iii with cobol, database, and database systems and b.s. degree in cyber forensics and information security plus strong communication skills and a focus on continuous improvement.",
+      "category": "BE",
+      "target_person_id": "12097",
+      "difficulty": "hard",
+      "precision_at_5": 1.0,
+      "ap_at_5": 1.0,
+      "relevance_labels": [
+        1,
+        1,
+        1,
+        1,
+        1
+      ],
+      "num_relevant": 5,
+      "search_results": [
+        {
+          "person_id": "12097",
+          "title": "software developer sr associate iii, application developer associate ii, software engineer ii, software engineer i, it associate application developer, it security analyst internship",
+          "skills": "cobol, database, database systems, sql server, sql server 2008, sql, security, sharepoint, visual studio, c#, systems analysis, visual basic, ios, linux, endeavor, excel, ms excel, ms powerpoint, powerpoint, ms word, ssrs",
+          "abilities": "maintained cobol programs, led change initiatives, led project work, created documentation, created sql, provided production support, built and maintained sharepoint site, created stored procedures, coordinated requests and changes, conducted testing, managed turnover activities, developed applications, assisted with reports, facilitated training, conducted gap analysis, assisted in implementation",
+          "program": "b.s. degree in cyber forensics and information security",
+          "distance": 0.4337528944015503
+        },
+        {
+          "person_id": "11755",
+          "title": "software engineer i, it project coordinator, security analyst intern, mentor",
+          "skills": "mainframe z, os, jcl, cobol, db2, sql, powershell, trigonometry, pre-calculus",
+          "abilities": "complete training courses over various concepts including mainframe z/os, jcl, cobol and db2/sql, complete and communicate code changes with business area, create and modify powershell scripts to increase accuracy and efficiency, remediate sql security issues and coordinate with database admins, validate application reports and amend access through change orders, service approximately 100 students every week, assist students in order to facilitate their understanding of mathematic course content",
+          "program": "bachelor of science in computer science in mathematics",
+          "distance": 0.6559956073760986
+        },
+        {
+          "person_id": "9128",
+          "title": "cyber security analyst, freelance it consultant, systems engineer",
+          "skills": "comptia, cyber security, information security, linux, visio, apcon, gigamon, security analytics (solera), fidelis, fireeye, rsa archer, bro, zeek, snort, suricata, splunk, solarwinds, vsphere, active dire, weblogic, sql developer, service central, remedy, putty, windows remote desktop, ftk, windows, html, php, css, adobe, excel, inventory, powerpoint, mysql, sharepoint, training, technical writing, dreamweaver, data entry, forensics",
+          "abilities": "cyber security, analyst, specialist",
+          "program": "bachelor's in information technology - cyber security",
+          "distance": 0.6701196432113647
+        },
+        {
+          "person_id": "11670",
+          "title": "sr. security analyst, cybersecurity analyst, project coordinator, manager, digital operations, associate consultant, it risk management",
+          "skills": "threat hunting, penetration testing, information security analyst, incident response, security engineering, threat actor monitoring, threat intelligence, red team exercises, forensics, documentation, tracking, digital technologies, infrastructure, strategic initiatives, communication, cross-functional collaboration, it risk management, hiring, onboarding, client engagement",
+          "abilities": "security analysis, penetration testing, threat hunting, threat intelligence, incident response, cyber forensics, security scripting, reporting & metrics, web application security, gwapt certified, gwapt capture the flag winner",
+          "program": "master's in software engineering, extension studies, bachelor of science in legal studies, business",
+          "distance": 0.6702467203140259
+        },
+        {
+          "person_id": "9488",
+          "title": "sr. infrastructure security engineer, cybersecurity analyst, it consultant",
+          "skills": "hybrid infrastructure design, threat analysis, ci, cd pipelines, network security, disaster recovery, compliance, identity management, storage clusters, cloud migrations, threat investigations, malware analysis, security monitoring, incident response, vulnerability management, security architecture, security awareness training, it solutions and support, legacy system upgrades, voip migrations, remote access infrastructure, workstation management",
+          "abilities": "systems engineering, cybersecurity, datacenter design, windows and linux administration, networking, security architecture, it governance, compliance, risk management, disaster recovery, business continuity",
+          "program": "bachelor's in computing & security technology",
+          "distance": 0.6804166436195374
+        }
+      ]
+    },
+    {
+      "query_id": "query_3701",
+      "query_text": "senior software engineer experienced in algolia, react.js, and redux.js and holding biology & neuroscience.",
+      "category": "BE",
+      "target_person_id": "3701",
+      "difficulty": "standard",
+      "precision_at_5": 1.0,
+      "ap_at_5": 1.0,
+      "relevance_labels": [
+        1,
+        1,
+        1,
+        1,
+        1
+      ],
+      "num_relevant": 5,
+      "search_results": [
+        {
+          "person_id": "5875",
+          "title": "senior react native developer, senior front end software developer, senior web, ui developer, front end software developer, web software developer",
+          "skills": "react native, redux, reactjs, html5, css3, javascript, xcode, chrome developer tool, jira, git, agile, visual studio code, sass, wcag 2.0 level aa, bootstrap, media queries, webpack, restful, webstorm, html, css, angularjs, jquery, ajax, sublime",
+          "abilities": "over 6 years of experience in front-end application development, expert at reactjs and redux, hands-on experience in building responsive web application, solid foundation in html and javascript, expert at creating page layouts by css3 pre-processor frameworks, hands-on experience in websites developing technologies and frameworks, expert at dom manipulation with javascript/jquery, expert at xcode ios simulator and android studio emulator, professional experience in the ecmascript new standard features, professional experience in developing curd application, hands-on experience in restful web services, expert in developer toolbar for chrome and redux developer tool, strong knowledge of cross-browser compatibility and w3c standards, knowledge about cucumber language for writing test cases, expert at running unit test using jest and enzyme, involve in the phase of software development life cycles, hands-on experience in using different kinds of ide's, professional experience in using version control tools git, wide experience with communication software such as teams and slack, excellent self-motivated team worker, capable of working under pressure and good multi-tasks management",
+          "program": "master of science in computer engineering, bachelor of engineering in electrical engineering",
+          "distance": 0.64675372838974
+        },
+        {
+          "person_id": "3331",
+          "title": "senior react js developer, reactjs developer, frond end developer, react js developer, front end developer, web developer",
+          "skills": "html5, css3, javascript, react js, redux, jsx, es6, state and props, jquery, jasmine, agile, ajax, git, ui, ux designs, npm, reactjs, bootstrap, mvc, html 5, css 3, mongodb, linux, typescript, json, dom, visual studio code, windows, sass, co-portal, publisher, adobe photoshop, github, cross browser, html, nodejs, http calls, restful api, mongoose",
+          "abilities": "bootstrap, html, html5, javascript, jquery",
+          "program": "master of science in computer science",
+          "distance": 0.6578727960586548
+        },
+        {
+          "person_id": "5857",
+          "title": "senior react js developer, reactjs developer, frond end developer, react js developer, front end developer, web developer",
+          "skills": "html5, css3, javascript, react js, redux, jsx, es6, state and props, jquery, jasmine, agile, ajax, git, ui, ux designs, npm, reactjs, bootstrap, mvc, html 5, css 3, mongodb, linux, typescript, json, dom, visual studio code, windows, sass, co-portal, publisher, adobe photoshop, github, cross browser, html, nodejs, http calls, restful api, mongoose",
+          "abilities": "git, html, javascript, bootstrap, redux, typescript, json, vs code, scripting, html5, sass, eclipse, jquery, ajax, css, dreamweaver, database, mysql, mongodb, linux",
+          "program": "master of science in computer science",
+          "distance": 0.6640754342079163
+        },
+        {
+          "person_id": "12232",
+          "title": "senior web developer, java developer, c# developer",
+          "skills": "react, redux, golang, aws, google, pipedrive, slack, sendgrid, java, spring, jersey, jpa, hibernate, jsf, primefaces, oracle, maven, angular 2, c#, .net, asp.net, web api, entity framework, sql server, angular, jquery",
+          "abilities": "upgrading company website, building new features, repairing existing systems, automating maintenance processes, monitoring workflow, designing and implementing applications, deploying applications",
+          "program": "bachelor degree in software engineer",
+          "distance": 0.6647477149963379
+        },
+        {
+          "person_id": "3219",
+          "title": "senior front- end engineer, senior ui developer, software engineer",
+          "skills": "html5, css3, less, sass, javascript, ajax, angular js, react js, react-dom, react-router, styled-components, redux js, react-redux, node js, webpack, webpack-dev-server, babel, jsx, ecma-script(es6), redux-xstate, axios, bootstrap, mongo db, html, css, jquery, core java, j2ee, usability testing, agile methodology",
+          "abilities": "seasoned professional with almost 6 yr experience in web application development, strong in javascript, ajax, jquery and implementing stylings using latest technologies, played important role in taking architecture level decisions, in adapting new technologies like react js, redux etc and also in refactoring the old code with new technologies, strong understanding of the software design/architecture process, good at partnering with product management to gather business & functional requirements, develop technical specifications, and product & test planning, experience in resolving defects/bugs during testing, pre-production, production, and post-release patches, experience in developing, maintaining, and innovating large scale, consumer facing web applications, strong understanding in component life cycle in react js and experience in developing the custom components using angular js custom directives, experience in writing test cases, test scripts using jasmine test api and karma, mocha, and assertions libraries like sinon js, chai for unit tests and sculpin for e2e testing, strong in employing oo principles such as encapsulation & abstraction - using classes & closures experience in design patterns such as singleton, factory, service, prototype, observer, adapter, proxy, hands on with responsive web design & addressing cross browser issues using eslint/jslint/jquery, strong in using git for version control and actively participating in open source projects on github, experience in all phase of sdlc like requirement analysis, implementation and maintenance, and extensive experience with agile and scrum, good at writing application level code to interact with apis, restful web services using ajax, json, well versed in building automation tools like grunt js, gulp js, webpack, adaptable, quick, flexible, multitasking & determined, developing solutions and proof-of-concepts for new technologies and experiences, demonstrated ability to explain complex technical issues to both technical and non-technical audiences, highly motivated, reliable analytical problem solver and trouble-shooter with strong attention to detail, very good at pair programming and mob programming, strong desire to learn and grow, helpful, can-do attitude and a willingness to take ownership of problems",
+          "program": "bachelor's in computer science",
+          "distance": 0.667952299118042
+        }
+      ]
+    },
+    {
+      "query_id": "query_13593",
+      "query_text": "Looking for a senior software engineer with wcf, wpf, and c# and a background in m.s.e.e..",
+      "category": "BE",
+      "target_person_id": "13593",
+      "difficulty": "standard",
+      "precision_at_5": 0.0,
+      "ap_at_5": 0.0,
+      "relevance_labels": [
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "num_relevant": 0,
+      "search_results": [
+        {
+          "person_id": "16620",
+          "title": "south division system administrator, system, data center administrator, network engineer (remote)",
+          "skills": "cisco routers and switches, symantec endpoint, system admin, active directory, vmware, system administrator, python, r, excel data analysis, excel, business intelligence, sql, javascript, linux, angular, html5, jquery, css, wordpress, front end, angularjs, html",
+          "abilities": "motivated i.t. professional, multiple certifications in the i.t. industry, pursuing mid to senior level network/ system administration or engineer positions, pursuing entry-level data science/analyst or web developer position",
+          "program": "associate in network administration, high school diploma, data science and web development",
+          "distance": 0.8195621967315674
+        },
+        {
+          "person_id": "3213",
+          "title": "senior front-end software engineer, lead front-end engineer, senior front-end engineer, senior ui consultant, lead .net consultant, .net consultant, senior .net consultant, senior .net developer, software developer",
+          "skills": "asp, css, asp.net, web services, c#, c++, html, javascript, bootstrap, node.js, wcf, php, python, java, jquery, mvc, knockout, soap, sql, rest, front-end, node, ui, html5, react, front end, css3",
+          "abilities": "designing and developing small to large scale internet and intranet applications, comfortable with a range of technologies, programming languages and open source projects, knowledgeable in software architecture, front-end, middle-tier and back-end development, software development life cycle (sdlc) experience, experienced in various development methodologies, experienced in leading and managing development teams, experienced in working with third-party vendors, remote and offshore teams, ability to take ownership of projects and managing with minimal supervision, familiar with product management and project management, passionate about technology",
+          "program": "computer science, electrical engineering",
+          "distance": 0.8541271090507507
+        },
+        {
+          "person_id": "6782",
+          "title": "it project manager, business analyst, cyber security analyst - intern, senior quality assurance",
+          "skills": "pm, scrum master, waterfall, sdlc",
+          "abilities": "certified scrum master, looking for full time and long term opportunity, authorized to work in the us for any employer",
+          "program": "master of science in computer science, bachelor of engineering in engineering & technology",
+          "distance": 0.8602736592292786
+        },
+        {
+          "person_id": "17023",
+          "title": "managed services engineer and in house representative under contract, helpdesk computer technician, network and systems administrator potential candidate for director of technology",
+          "skills": "phones systems both in house and wireless, exchange and google email administration, active directory administration, networking, dns, vpn administration, print administration, vm management running vmware horizon, point to point wireless internet systems, network upgrades, cabling, new location setup, backup checkups, full it support, training new technicians, google domains, active directory, vm management, networking the district",
+          "abilities": "a teacher to the teachers, the presentation expert, the technology wizard, the tutorial expert, designing, building, testing, implementation and support",
+          "program": "some college in engineering, high school or equivalent in writing\\general",
+          "distance": 0.8667234182357788
+        },
+        {
+          "person_id": "15493",
+          "title": "software developer, network administrator",
+          "skills": "microsoft dynamics ax 2012, x++, .net core, c#, microsoft sql server 2008, python, voip",
+          "abilities": "software developer, network administrator, management information systems",
+          "program": "bachelor's in management information systems",
+          "distance": 0.8713349103927612
+        }
+      ]
+    },
+    {
+      "query_id": "query_7238",
+      "query_text": "it audit manager who can work with it audit, fisma, and cisa, holds bachelor of science in accounting and information systems, and has the ability to mentor junior staff and document processes clearly.",
+      "category": "OTHER",
+      "target_person_id": "7238",
+      "difficulty": "hard",
+      "precision_at_5": 1.0,
+      "ap_at_5": 1.0,
+      "relevance_labels": [
+        1,
+        1,
+        1,
+        1,
+        1
+      ],
+      "num_relevant": 5,
+      "search_results": [
+        {
+          "person_id": "7238",
+          "title": "it audit manager, senior it audit lead consultant, it compliance manager, it compliance senior lead, it sox manager, senior it auditor, senior consultant, it audit project lead",
+          "skills": "it audit, fisma, cisa, cobit, sox, hipaa, auditing, nist, it systems assessment, it risk mitigation, it compliance, audit remediation, control implementation, it control evaluation, it sox, project management, it auditing, audit reporting, fiscam audits, it control testing, audit planning, audit execution",
+          "abilities": "it audit, it compliance, it control evaluation, audit remediation, it sox, fiscam audits, audit reporting, audit planning, audit execution",
+          "program": "bachelor of science in accounting and information systems",
+          "distance": 0.47722846269607544
+        },
+        {
+          "person_id": "8897",
+          "title": "it program manager, it project manager, it trainer, senior it compliance auditor",
+          "skills": "project management, it security audit, leadership, software development life cycle (sdlc), training, deployment, quality assurance, customer service support, customer relationship management (crm), service desk, team management, budget management, agile software development, project planning, mentoring, training development, onboarding, infrastructure management, security auditing, compliance management, policy development",
+          "abilities": "proficient, goal-oriented, effective it professional, liaison and interpreter between business and it, fluent in translating requirements, streamlining technical jargon, change agent, process improvement",
+          "program": "masters of science in industrial/organizational psychology, bachelor of science in psychology",
+          "distance": 0.5623481869697571
+        },
+        {
+          "person_id": "11100",
+          "title": "it senior lead auditor, it audit leader, program manager: it audit project manager (auditor vi), information systems auditor, information systems examiner, internal auditor iii- iv, accounting technician ii, accounting internship, network trouble-shooting analyst i, ii, desk sergeant, physical security",
+          "skills": "teammate auditing software, audit management program (amp), audit command language (acl), microsoft products, iaw, coso, cobit, nist, sarbanes-oxley (sox), hipaa, pci, iso, pcaob, gao (yellow book), iia standards, tax preparation, engagement letters, hardware troubleshooting, software troubleshooting, security, investigations, supervision, leadership",
+          "abilities": "strong academic background in accounting and business, excellent communication, time management, and presentation skills, able to produce written information, documents, or correspondence in a succinct and organized manner, superior computer skills, currently pursuing the texas certified public accounting (cpa) license, coached junior staff regarding required knowledge and skills, planned, led, and participated in integrated audits, identified and assessed key risks and controls, developed effective test plans, reviewed working-papers, implemented and managed audit and control frameworks, provided direct support for sarbanes-oxley (sox), hipaa, and pci compliance, conducted audits of it general controls, applications and hardware of financial systems, performed audits and audit related projects, applied control frameworks and adhered to pcaob, gao (yellow book), and iia standards, diagnosed and performed troubleshooting of complex hardware and software problems, conducted patrols, security, and investigations, supervised and led teams of soldiers",
+          "program": "ms accounting in accounting, ms management in management, mba, ba in business accounting",
+          "distance": 0.5631113648414612
+        },
+        {
+          "person_id": "11138",
+          "title": "senior it risk, audit, and compliance analyst, independent consultant, senior security engineer consultant, senior security advisor, security architect, senior information systems administrator, it sox project lead, chief information security officer (ciso), director, information security compliance, chief, information security",
+          "skills": "auditing, risk management, security, solutions, it audit, fisma, sox, cobit, cisa, compliance, cia, hipaa, nist",
+          "abilities": "auditing, risk management, security, solutions, it audit, fisma, sox, cobit, cisa, compliance, cia, hipaa, nist",
+          "program": "bachelor of science in information security, associate degree in management information systems",
+          "distance": 0.5740965604782104
+        },
+        {
+          "person_id": "11331",
+          "title": "it audit intern, graduate teaching assistant, it security analyst",
+          "skills": "general computer controls audit, access management, software development lifecycle, infrastructure change testing, security assessment, windows and unix servers, database development, data mining and analysis, security assessments, ece 450 - introduction to robotics, ece 301 - digital electronics, web application vulnerability assessments, risk assessments, third party vendor management, network security assessments, windows server security reviews, firewall security reviews, database server security reviews, information security audits",
+          "abilities": "resourceful, innovative, flexible",
+          "program": "master's in information systems, bachelor of technology in electronics and communication",
+          "distance": 0.5822619199752808
+        }
+      ]
+    },
+    {
+      "query_id": "query_8388",
+      "query_text": "Looking for a it project coordinator with sdlc, agile, and jira and a background in m.c.e. in international construction and project management.",
+      "category": "OTHER",
+      "target_person_id": "8388",
+      "difficulty": "standard",
+      "precision_at_5": 1.0,
+      "ap_at_5": 1.0,
+      "relevance_labels": [
+        1,
+        1,
+        1,
+        1,
+        1
+      ],
+      "num_relevant": 5,
+      "search_results": [
+        {
+          "person_id": "11677",
+          "title": "it project manager, business analyst, cyber security analyst - intern, senior quality assurance",
+          "skills": "pm, scrum master, waterfall, sdlc",
+          "abilities": "it, analyst, certified scrum master, permanent resident, looking for full time and long term opportunity, authorized to work in the us for any employer",
+          "program": "master of science in computer science, bachelor of engineering in engineering & technology",
+          "distance": 0.6234582662582397
+        },
+        {
+          "person_id": "6782",
+          "title": "it project manager, business analyst, cyber security analyst - intern, senior quality assurance",
+          "skills": "pm, scrum master, waterfall, sdlc",
+          "abilities": "certified scrum master, looking for full time and long term opportunity, authorized to work in the us for any employer",
+          "program": "master of science in computer science, bachelor of engineering in engineering & technology",
+          "distance": 0.633054256439209
+        },
+        {
+          "person_id": "8729",
+          "title": "it corporate project manager, executive administrative assistant, project coordinator, technical project coordinator",
+          "skills": "jira, microsoft office, microsoft sharepoint, ms office, project management",
+          "abilities": "highly proficient in microsoft office suite programs, including project plan, confluence, sharepoint, jira, working towards project management professional certification",
+          "program": "bachelor of science in technology development & management in emphasis in project management, associates of science",
+          "distance": 0.637224555015564
+        },
+        {
+          "person_id": "7384",
+          "title": "it project manager ii, project coordinator, intern",
+          "skills": "project management, hardware management, stakeholder management, cross-functional team management, resource scheduling, budget management, go-live installations, testing and implementation, risk and issue management, uat testing, automation and efficiency, data analysis, database management",
+          "abilities": "sdlc project lifecycle coordination, building/leading solid teams, external consulting, best practices, budgeting & cost-control, cultivating customer relationships, evaluating & assessing risk, vendor relations, technology architecture & integration, strong communication & presentation skills, c++ programming, java",
+          "program": "bachelor of science in management information systems",
+          "distance": 0.6446174383163452
+        },
+        {
+          "person_id": "8783",
+          "title": "it project coordinator, talent acquisition specialist, account manager, technical recruiter",
+          "skills": "agile, waterfall, sdlc, scrum, microsoft visio, ms office project, access, word, excel, powerpoint, sharepoint, version one, rally, jira, clairty, ariba, ms sql",
+          "abilities": "it professional, problem-solving, relationship building, agile/waterfall methodologies, design and management, business needs analysis, functional and technical specifications, budget forecasting and financial analysis, portfolio planning and execution, interdepartmental communication and logistics, process improvement, analytical tools and models, ad-hoc reports, dashboards and analysis, recruitment solutions, requirement gathering, technical knowledge, customer service, account management",
+          "program": "bachelor of arts in communications",
+          "distance": 0.6495074033737183
+        }
+      ]
+    },
+    {
+      "query_id": "query_14764",
+      "query_text": "field technician experienced in network systems, servers, and phone system and holding bachelor's in information systems security.",
+      "category": "OTHER",
+      "target_person_id": "14764",
+      "difficulty": "standard",
+      "precision_at_5": 1.0,
+      "ap_at_5": 1.0,
+      "relevance_labels": [
+        1,
+        1,
+        1,
+        1,
+        1
+      ],
+      "num_relevant": 5,
+      "search_results": [
+        {
+          "person_id": "14905",
+          "title": "field technician iii, northern, system administrator, network technician ii",
+          "skills": "installations, troubleshooting, maintenance, voice, internet, tv services, signal testing, customer communication, network management, windows servers, unix servers, workstation configuration, voip phone system, server maintenance, backup management, remote access, fiber optic installation, telephone line testing, trouble ticket management, report generation",
+          "abilities": "computer support, technical skills, organizational skills, problem solving, authorized to work in the us",
+          "program": "associate in computer science",
+          "distance": 0.35328465700149536
+        },
+        {
+          "person_id": "14555",
+          "title": "field service technician, florida field technician, level ii technician, crew leader, computer network administrator, network system administrator",
+          "skills": "software installation, troubleshooting, pos, network security, microsoft office, maintenance, management, training",
+          "abilities": "highly organized, microsoft office, ms office, network security, point of sale, creative problem solver, leadership, time management, bilingual",
+          "program": "bachelor's degree in computer systems networking and telecommunications, bachelor's degree in computer networking",
+          "distance": 0.3580719530582428
+        },
+        {
+          "person_id": "8372",
+          "title": "traffic operations technician, project manager, it support",
+          "skills": "networking, network security, customer service, over the phone support",
+          "abilities": "trained new field techs, worked as alarm dispatcher, worked as assistant it, authorized to work in the us for any employer, microsoft office, cisco, networking, troubleshooting, a+, net+, cyber security",
+          "program": "aa",
+          "distance": 0.44876518845558167
+        },
+        {
+          "person_id": "1671",
+          "title": "field technician, networking and database administrator, assistant manager",
+          "skills": "customer support, install new service, troubleshoot, educate customer, identify service problems, safety and quality checks, tool and equipment management, staff management, reporting, service improvement, cross-training, client onboarding, daily operations, customer service, event management, vendor and inventory management",
+          "abilities": "certified it professional, a+, sever+, network+,linux & mta, 16 years of experience in information technology, energetic and detail-oriented professional, ability to learn and adapt quickly, authorized to work in the us",
+          "program": "associate in information systems management, certificate in english as a second language, world class it professional. comptia it operations specialist and comptia network infrastructure professional. in information technology network administration, certificate in javascript and ruby",
+          "distance": 0.4581604599952698
+        },
+        {
+          "person_id": "15098",
+          "title": "infrastructure networks technician, technical help desk technician, network administrator, remote it field tech",
+          "skills": "technical troubleshooting, pos systems, computer deployment, inventory management, customer service, remote software installation, network infrastructure maintenance, technical assistance, network configuration, cabling and patching, problem resolution, customer support, network and system monitoring, computer reimaging and deployment",
+          "abilities": "customer service, retail operations, problem resolution, it background expertise, authorized to work in the us",
+          "program": "associate of applied science in computer networking and security",
+          "distance": 0.4593231678009033
+        }
+      ]
+    }
+  ]
+}
